@@ -1,0 +1,16 @@
+{
+"companyName": "Lotte",
+"productName": "game",
+"productVersion": "2.0",
+"dataUrl": "final-develop.data.unityweb",
+"wasmCodeUrl": "final-develop.wasm.code.unityweb",
+"wasmFrameworkUrl": "final-develop.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.21f1"
+}
